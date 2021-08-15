@@ -28,4 +28,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Frontpage
 
+![Capture](https://user-images.githubusercontent.com/82292208/129496013-cbedddb3-9a40-4391-92ff-a35d55b5aa03.PNG)
+
+Search button after clicking a store
+
+![n](https://user-images.githubusercontent.com/82292208/129496030-b575f76e-633d-4734-a872-e319454922ba.PNG)
+
+After clicking the search button the data apears of the product
+
+![v](https://user-images.githubusercontent.com/82292208/129496039-d426e2a6-37a6-4693-b453-cdac0f91f014.PNG)
+
 
