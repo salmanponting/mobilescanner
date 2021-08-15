@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Frontpage
 
-![Screenshot (105)](https://user-images.githubusercontent.com/82292208/129495924-99e8c0b5-0eeb-483d-aca8-747c8973033a.png)
+
